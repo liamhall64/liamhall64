@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liamhall64.
 - 😄 Pronouns: He/Him.
-- 👀 I’m interested in space, weather and aviation.
-- 🌱 I’m currently working on an assimilation project in the hopeful detection of exomoons!
+- 👀 I love space, weather and aviation.
+- 🌱 I’m currently working at the Met Office in Satellite and Surface Assimilation for NWP.
 - 📫 How to reach me: https://www.linkedin.com/in/liam-hall01/ 
 - ⚡ Fun fact: The Hubble Sphere is a region of space-time which is expanding faster than the speed of light. The light from galaxies outside this region will never reach us.
 - 🗨️ 'Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying' - Arthur C. Clarke.
