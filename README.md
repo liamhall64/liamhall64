@@ -1,8 +1,9 @@
 # About Me
 
-- 👋 Hi, I’m @liamhall64.
-  - 😄 Pronouns: He/Him.
+- 👋 Hi, I’m @liamhall64 (He/Him).
 - 👀 I love space, weather and aviation.
+- From Nottingham, UK
+- Currently living in Exeter, UK
 
 ### Work and Projects 🌱 
 
